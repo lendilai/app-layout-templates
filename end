@@ -1,0 +1,207 @@
+[33mcommit 08863faa719bb41facc5a75af9583de605e714c6[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Polymer Format Bot <format-bot@polymer-project.org>
+Date:   Tue Apr 18 12:00:44 2017 -0700
+
+    [ci skip] Update Issue Template
+
+[33mcommit d9d2bafde7fdbbbce7f8a792e0fd8881d278468d[m
+Author: Polymer Format Bot <format-bot@polymer-project.org>
+Date:   Thu Apr 6 15:01:10 2017 -0700
+
+    [ci skip] Update Issue Template
+
+[33mcommit 75ca75029556990c24cfab3cc9c9151274c2f0bc[m
+Author: Polymer Format Bot <format-bot@polymer-project.org>
+Date:   Thu Apr 6 14:05:14 2017 -0700
+
+    [ci skip] Update Issue Template
+
+[33mcommit 5e7aae73a05947312483df26a476598b5b87a4aa[m
+Merge: 93825ad a64d8c8
+Author: Monica Dinculescu <notwaldorf@gmail.com>
+Date:   Fri Aug 5 15:44:39 2016 -0700
+
+    Merge pull request #13 from abdonrd/standardize_bower_json
+    
+    Standardize bower.json for all PolymerElements
+
+[33mcommit a64d8c8847fcbe8a0c3b45382a4792fde4d680fb[m
+Author: Abdón Rodríguez Davila <a@abdonrd.com>
+Date:   Fri Aug 5 17:00:12 2016 +0200
+
+    Standardize bower.json for all PolymerElements
+
+[33mcommit 93825ad6d18368098e7b07b3d43a04cf9df8ab9e[m
+Author: Valdrin Koshi <valdrin@google.com>
+Date:   Tue May 31 10:55:40 2016 -0700
+
+    window.console -> Polymer.Base (#11)
+
+[33mcommit ce0926fbf7213718aafbf8eef749ec74433a0e38[m
+Author: Polymer Format Bot <format-bot@polymer-project.org>
+Date:   Tue May 17 15:30:57 2016 -0700
+
+    [skip ci] Update contribution guide
+
+[33mcommit eabd6cc44a7ba685dba069d6e0a24e74bb12d88c[m
+Author: Polymer Format Bot <format-bot@polymer-project.org>
+Date:   Tue Mar 22 17:39:00 2016 -0700
+
+    [skip ci] Add license headers
+
+[33mcommit c76d509a54d2d6ec37f18e5070274909dff824bd[m
+Author: Polymer Format Bot <format-bot@polymer-project.org>
+Date:   Tue Mar 22 17:39:00 2016 -0700
+
+    [ci skip] Add Issue Template
+
+[33mcommit a928745455112fe8259cc0ec0718f2ca469ce0e3[m
+Author: Polymer Format Bot <format-bot@polymer-project.org>
+Date:   Wed Feb 3 16:32:17 2016 -0800
+
+    [skip ci] Update contribution guide
+
+[33mcommit 4ed76df50fe47b4f3847b17cd3a7e2748969b1cd[m
+Author: Polymer Format Bot <format-bot@polymer-project.org>
+Date:   Wed Feb 3 15:00:58 2016 -0800
+
+    [skip ci] Update contribution guide
+
+[33mcommit 421dc3145b635d62765c63a89445f5cb2dbae74a[m
+Author: Polymer Format Bot <format-bot@polymer-project.org>
+Date:   Mon Nov 16 13:43:48 2015 -0800
+
+    Add an ignore property to bower.json.
+
+[33mcommit a21d548259e329e92fb086fb2202e401d92abbb1[m
+Author: Polymer Format Bot <format-bot@polymer-project.org>
+Date:   Thu Oct 29 10:10:04 2015 -0700
+
+    Create contribution guide
+
+[33mcommit 5312519568796957bebb3bb80e2c2d21d1cadf70[m
+Merge: 239cfde 45916a4
+Author: Addy Osmani <addyosmani@gmail.com>
+Date:   Thu Jun 4 11:23:32 2015 +0100
+
+    Merge pull request #4 from waywardmonkeys/patch-1
+    
+    Fix typo.
+
+[33mcommit 45916a42c87538ef1826382c6ccf9da1cde639e3[m
+Author: Bruce Mitchener <bruce.mitchener@gmail.com>
+Date:   Thu Jun 4 12:42:15 2015 +0700
+
+    Fix typo.
+
+[33mcommit 239cfde12161dfd3bbbd924c5cb89853bf6ace8f[m
+Author: frankiefu <ffu@google.com>
+Date:   Thu May 28 19:00:37 2015 -0700
+
+    workaround for dom-repeat inside <select> issue on IE
+
+[33mcommit 64049cfec4a29ded885dc5a2a1c56e4b01c45167[m
+Author: frankiefu <ffu@google.com>
+Date:   Thu May 28 11:36:09 2015 -0700
+
+    update versions in bower.json
+
+[33mcommit ad5756f971861a8efe1ccff1a98a8de8a475d906[m
+Author: Taylor Savage <tjsavage@users.noreply.github.com>
+Date:   Wed May 27 20:26:56 2015 -0700
+
+    updated license in bower.json
+
+[33mcommit 9348a47ed6a40f52b873dd027a2b2040e673c6f1[m
+Author: Frankie Fu <ffu@google.com>
+Date:   Wed May 27 18:36:52 2015 -0700
+
+    Update README.md
+
+[33mcommit 30a9162e7a242eb90db2d1d2ede0a97c9b809f18[m
+Author: Frankie Fu <ffu@google.com>
+Date:   Wed May 27 18:26:07 2015 -0700
+
+    Update README.md
+
+[33mcommit 3b94f66ee5a0cbc2eb525a1764e3d49bb1dcfe5a[m
+Author: frankiefu <ffu@google.com>
+Date:   Wed May 27 17:24:19 2015 -0700
+
+    import paper-styles' color
+
+[33mcommit a91e51ece4621e4e0800789d9fb48ebf24bd2bf9[m
+Author: frankiefu <ffu@google.com>
+Date:   Wed May 27 15:17:47 2015 -0700
+
+    remove uneeded css since paper-drawer-panel has fixed the issue
+    (https://github.com/PolymerElements/paper-drawer-panel/commit/4fb108b1d60674068460913f4bc4c9121647ee78)
+
+[33mcommit 01c9e79a5f727b958bfdf386d763fe71f4000329[m
+Author: frankiefu <ffu@google.com>
+Date:   Sun May 24 17:41:58 2015 -0700
+
+    cleanup; add comment; update bower dep
+
+[33mcommit 19de8fc90d02fd5b59ace118de9015dacbd7a927[m
+Author: frankiefu <ffu@google.com>
+Date:   Mon May 18 13:01:32 2015 -0700
+
+    use Roboto; update css for chagnes in paper-header-panel
+
+[33mcommit b9595cd0eaed63e8007ed58922d70c63c3097dff[m
+Author: frankiefu <ffu@google.com>
+Date:   Wed May 13 14:49:10 2015 -0700
+
+    update bower
+
+[33mcommit 666c119cbf2af8cbbfadfd716b35ea3d11e632ff[m
+Author: frankiefu <ffu@google.com>
+Date:   Wed May 13 14:49:01 2015 -0700
+
+    list-card-over: make list-panel 100% width in mobile
+    update bower
+
+[33mcommit d63d8c110db8091ed7f8e5740755dc080c48eb2f[m
+Author: frankiefu <ffu@google.com>
+Date:   Wed May 13 14:15:48 2015 -0700
+
+    set border on --paper-header-panel-container
+
+[33mcommit be191cd807ad938a7971799ef213ed6fe10df5ce[m
+Merge: 40ee249 a7278e5
+Author: frankiefu <ffu@google.com>
+Date:   Wed May 13 14:08:35 2015 -0700
+
+    Merge branch 'master' of github.com:PolymerElements/app-layout-templates
+
+[33mcommit 40ee24993c24e15f18dfb9e4045f098d80d8caf2[m
+Author: frankiefu <ffu@google.com>
+Date:   Wed May 13 14:08:07 2015 -0700
+
+    add list-card-over template; update all templates to use
+    paper-header-panel
+
+[33mcommit a7278e5d988149bb26f94027a684699f4c9d0fe7[m
+Author: Frankie Fu <ffu@google.com>
+Date:   Tue May 12 18:14:27 2015 -0700
+
+    Update README.md
+
+[33mcommit 1f31b044377a994422551dc5697f399f7d6d9362[m
+Author: frankiefu <ffu@google.com>
+Date:   Tue May 12 15:52:34 2015 -0700
+
+    add nav-view layout template; add github link to device-layout-viewer
+
+[33mcommit 21567af2223e3c6a8eea2d3ba951807ff6029924[m
+Author: frankiefu <ffu@google.com>
+Date:   Fri May 8 16:10:20 2015 -0700
+
+    initial checkin
+
+[33mcommit c56ef57eec5c26380e94fe27d5efab755701b037[m
+Author: Frankie Fu <ffu@google.com>
+Date:   Fri May 8 16:02:23 2015 -0700
+
+    Initial commit
